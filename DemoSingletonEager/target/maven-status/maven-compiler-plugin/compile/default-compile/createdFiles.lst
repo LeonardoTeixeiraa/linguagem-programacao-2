@@ -1,0 +1,5 @@
+module-info.class
+com/mycompany/demosingletoneager/PrimaryController.class
+com/mycompany/demosingletoneager/ConexaoBancoDeDados.class
+com/mycompany/demosingletoneager/App.class
+com/mycompany/demosingletoneager/SecondaryController.class

@@ -1,0 +1,4 @@
+--patch-module
+com.mycompany.validacaousuariofx=_
+--add-reads
+com.mycompany.validacaousuariofx=ALL-UNNAMED

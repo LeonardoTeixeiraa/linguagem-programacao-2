@@ -1,0 +1,13 @@
+com/mycompany/agenciaespectral/interfaces/Psiquico.class
+com/mycompany/agenciaespectral/model/evidencias/VisaoFugaz.class
+com/mycompany/agenciaespectral/interfaces/Interagivel.class
+com/mycompany/agenciaespectral/PrimaryController.class
+com/mycompany/agenciaespectral/model/detetives/DetetiveParanormal.class
+com/mycompany/agenciaespectral/App.class
+com/mycompany/agenciaespectral/model/detetives/DetetiveCientista.class
+com/mycompany/agenciaespectral/model/evidencias/Evidencia.class
+module-info.class
+com/mycompany/agenciaespectral/model/evidencias/ObjetoAmaldicoado.class
+com/mycompany/agenciaespectral/model/evidencias/PegadaEctoplasmatica.class
+com/mycompany/agenciaespectral/model/evidencias/SusurroEspectral.class
+com/mycompany/agenciaespectral/model/evidencias/ManuscritoAntigo.class
